@@ -7,8 +7,8 @@
 - ⚡ Estudo Análise e Desenvolvimento de Sistemas na Senac - DF ;
 - 😄 Entusiasta de: Café, Automobilismo e Aviação ;
 
-📀| Learning: Html_Logo CSS_Logo JS_Logo Java_Logo
+📀| Estou Aprendendo: Html, CSS, JS e muitas outras linguagens de Programação
 
-💻| User of: Windows_Logo  and Linux Mint.
+💻| Sou Usúario de: Windows XP ao 11 e do Linux Mint.
 
-que a massa x aceleração esteja com você☕
+Que a massa x aceleração esteja com você☕

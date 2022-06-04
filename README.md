@@ -9,6 +9,6 @@
 
 📀| Estou Aprendendo: Html, CSS, JS e muitas outras linguagens de Programação
 
-💻| Sou Usúario de: Windows XP ao 11 e do Linux Mint.
+💻| Sou Usúario do: Windows XP ao 11 e do Linux Mint.
 
 Que a massa x aceleração esteja com você☕

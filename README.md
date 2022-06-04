@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá, me chamo Murilo ! 
+### Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**MuriloAdosSantos/MuriloAdosSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou trabalhando mas não na área ;
+- 🌱 Atualmente estou aprendendo Algoritmos e Lógica de Programção na UDEMY ;
+- ⚡ Estudo Análise e Desenvolvimento de Sistemas na Senac - DF ;
+- 😄 Entusiasta de: Café, Automobilismo e Aviação ;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📀| Learning: Html_Logo CSS_Logo JS_Logo Java_Logo
+
+💻| User of: Windows_Logo  and Linux Mint.
+
+que a massa x aceleração esteja com você☕

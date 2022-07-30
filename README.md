@@ -2,13 +2,12 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 
-- 🔭 Atualmente estou trabalhando mas não na área ;
-- 🌱 Atualmente estou aprendendo Algoritmos e Lógica de Programção na UDEMY ;
-- ⚡ Estudo Análise e Desenvolvimento de Sistemas na Senac - DF ;
-- 😄 Entusiasta de: Café, Automobilismo e Aviação ;
+● 🔭 Atualmente estou trabalhando mas não na área ;
+● ⚡ Estudo Análise e Desenvolvimento de Sistemas na Senac - DF ;
+● 😄 Entusiasta de: Café, Automobilismo, Aviação e códigos...;
 
-📀| Estou Aprendendo: Html, CSS, JS e muitas outras linguagens de Programação
+● 📚 I'm learning: Html, CSS, JS and other programming languanges
 
-💻| Sou Usúario do:Windows XP -> 11 e do Linux Mint.
+💻| Sou Usúario do: Windows XP -> 11 | Linux Mint e Ubuntu.
 
 <Que a massa x aceleração esteja com você☕/>
